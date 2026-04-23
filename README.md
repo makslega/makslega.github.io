@@ -3,3 +3,4 @@
 ## [history.html](https://github.com/user-attachments/files/27004735/history.html)<!DOCTYPE html> - Создатели телефонной связи.
 ## [index.html](https://github.com/user-attachments/files/27004741/index.html) - Телефонная связь информация.
 
+Проблема в том что, index работает через page, а остальные через браузер напрямую.
